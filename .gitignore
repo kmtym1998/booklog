@@ -1,2 +1,4 @@
-.vscode
+# NOTE: https://qiita.com/NumAniCloud/items/fd452828f634b577ae28
+.vscode/*
+!.vscode/settings.json
 tmp
